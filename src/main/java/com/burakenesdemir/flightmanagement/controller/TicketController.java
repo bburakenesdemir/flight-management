@@ -1,12 +1,8 @@
 package com.burakenesdemir.flightmanagement.controller;
 
-import com.burakenesdemir.flightmanagement.controller.mapper.AirlineMapper;
 import com.burakenesdemir.flightmanagement.controller.mapper.TicketMapper;
-import com.burakenesdemir.flightmanagement.lib.dto.AirlineDto;
 import com.burakenesdemir.flightmanagement.lib.dto.TicketDto;
-import com.burakenesdemir.flightmanagement.lib.resource.AirlineResource;
 import com.burakenesdemir.flightmanagement.lib.resource.TicketResource;
-import com.burakenesdemir.flightmanagement.service.AirlineService;
 import com.burakenesdemir.flightmanagement.service.TicketService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

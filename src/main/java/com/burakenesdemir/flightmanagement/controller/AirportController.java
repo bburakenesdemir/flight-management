@@ -1,7 +1,6 @@
 package com.burakenesdemir.flightmanagement.controller;
 
 import com.burakenesdemir.flightmanagement.controller.mapper.AirportMapper;
-import com.burakenesdemir.flightmanagement.data.entity.Airport;
 import com.burakenesdemir.flightmanagement.lib.dto.AirportDto;
 import com.burakenesdemir.flightmanagement.lib.resource.AirportResource;
 import com.burakenesdemir.flightmanagement.service.AirportService;
